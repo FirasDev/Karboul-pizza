@@ -30,28 +30,11 @@ import java.security.NoSuchAlgorithmException;
 
 import kheder.com.pizza.R;
 
-/**
- * An example full-screen activity that shows and hides the system UI (i.e.
- * status bar and navigation/system bar) with user interaction.
- */
 public class LoginActivity extends AppCompatActivity {
-    /**
-     * Whether or not the system UI should be auto-hidden after
-     * {@link #AUTO_HIDE_DELAY_MILLIS} milliseconds.
-     */
+
     private static final boolean AUTO_HIDE = true;
 
-    /**
-     * If {@link #AUTO_HIDE} is set, the number of milliseconds to wait after
-     * user interaction before hiding the system UI.
-     */
     private static final int AUTO_HIDE_DELAY_MILLIS = 3000;
-
-    /**
-     * Some older devices needs a small delay between UI widget updates
-     * and a change of the status and navigation bar.
-     */
-
 
     LoginButton loginButton;
     CallbackManager callbackManager;
@@ -60,45 +43,33 @@ public class LoginActivity extends AppCompatActivity {
     private final Handler mHideHandler = new Handler();
     private View mContentView;
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         setContentView(R.layout.activity_login);
+        Thread background = new Thread() {
+            public void run() {
 
-        Intent intent = new Intent(LoginActivity.this, CommandesActivity.class);
+                try {
+                    // Thread will sleep for 5 seconds
+                    sleep(5 * 1000);
+                    Intent intent = new Intent(LoginActivity.this, CommandesActivity.class);
+                    startActivity(intent);
+                    finish();
+                    callbackManager = CallbackManager.Factory.create();
 
-        startActivity(intent);
-        finish();
+                    // After 5 seconds redirect to another intent
 
-        callbackManager = CallbackManager.Factory.create();
+                } catch (Exception e) {
+
+                }
+            }
+        };
+
+        // start thread
+        background.start();
 
     }
-
-
-//    public View onCreateView(
-//            LayoutInflater inflater,
-//            ViewGroup container,
-//            Bundle savedInstanceState) {
-//        View view = inflater.inflate(R.layout.activity_login, container, false);
-//
-//        Toast.makeText(getApplicationContext(),"Success",Toast.LENGTH_LONG);
-//
-//        Profile profile = Profile.getCurrentProfile();
-//        LoginManager loginManager = LoginManager.getInstance();
-//
-//        Intent intent = new Intent(LoginActivity.this, CommandesActivity.class);
-//
-//        intent.putExtra("profile",profile);
-//
-//        startActivity(intent);
-//        finish();
-//
-//        return view;
-//    }
-
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {

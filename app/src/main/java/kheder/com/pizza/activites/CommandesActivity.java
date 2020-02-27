@@ -96,72 +96,10 @@ public class CommandesActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
 
-        commandes = new ArrayList<FlatCommande>();
-        RequestQueue queue = Volley.newRequestQueue(this);
 
         progressBar2 = (ProgressBar) findViewById(R.id.progressBar2);
-        progressBar2.setVisibility(View.VISIBLE);
+        progressBar2.setVisibility(View.GONE);
 
-
-//        String url ="https://pizzadelivdemo.herokuapp.com/?id=" + profile.getId();
-//        JsonArrayRequest req = new JsonArrayRequest(url,
-//                new Response.Listener<JSONArray>() {
-//                    @Override
-//                    public void onResponse(JSONArray response) {
-//
-//                        try {
-//                            // Parsing json array response
-//                            // loop through each json object
-//                            Log.d("Response", Integer.toString(response.length()));
-//                            for (int i = 0; i < response.length(); i++) {
-//
-//                                JSONObject comm = (JSONObject) response
-//                                        .get(i);
-//
-//                                commandes.add(new FlatCommande(
-//                                        comm.getInt("size"),
-//                                        comm.getDouble("lat"),
-//                                        comm.getDouble("lng"),
-//                                        comm.getInt("ing1"),
-//                                        comm.getInt("ing2"),
-//                                        comm.getInt("ing3"),
-//                                        comm.getInt("ing4"),
-//                                        comm.getInt("ing5"),
-//                                        comm.getInt("ing6"),
-//                                        comm.getInt("ing7"),
-//                                        comm.getInt("ing8"),
-//                                        comm.getInt("ing8"),
-//                                        comm.getString("date"),
-//                                        comm.getDouble("prix")
-//                                ));
-//                                ArrayAdapter<FlatCommande> adapter = new CommandeArrayAdapter(that, 0, commandes);
-//                                listView.setAdapter(adapter);
-//                                progressBar2.setVisibility(View.GONE);
-//                            }
-//
-//
-//
-//                        } catch (JSONException e) {
-//                            e.printStackTrace();
-//                            Toast.makeText(getApplicationContext(),
-//                                    "Error: " + e.getMessage(),
-//                                    Toast.LENGTH_LONG).show();
-//                        }
-//
-//
-//                    }
-//                }, new Response.ErrorListener() {
-//            @Override
-//            public void onErrorResponse(VolleyError error) {
-//
-//                Toast.makeText(getApplicationContext(),
-//                        error.getMessage(), Toast.LENGTH_SHORT).show();
-//
-//
-//            }
-//        });
-
-//        queue.add(req);
 
     }
 
