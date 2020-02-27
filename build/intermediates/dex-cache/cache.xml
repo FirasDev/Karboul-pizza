@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\061cb9ef1c0f1edf52a1aa6c254cd8c8cf138f0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2db5562b0d7b8af078d2a6243a31e29d865f386f">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_401de9d8cabca0a316ac51bcbde6b933df50ae7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\52a15b2ac32605e2df9bd71454e55851ead108ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_73582e62fd47f010d05ad62174558965f263cba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\dcc4983fff51aefa4b2e123ff98e2636e020d7a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_3c9039c1bd75814e31f0a1e8f8faf67cc646ccd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\90074e4115c8ccc4159009a9b9e71d55ba5ff627\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_813d9f838967ed38923bdb75e163a57fed8b1b6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Firas\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.0\931532e953a477f876f2de18c2e7f16eee01078f\constraint-layout-solver-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="931532e953a477f876f2de18c2e7f16eee01078f">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.0_86198d591175a781a50bc1f50f08dad567bef6dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\a9908abe20b0e446202f1d7d36681f4c44786048\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_feccdd8fbabe51049713dd01a0089856cfb6231e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\ede1c46b35fadab2ebeb0536b4aac62ce83b2908\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8484d5b4369cc7ab8d5722290ed25d134afde322">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_872a08cf837b5c0c1cf4f4980ded37fa9c5c4339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\ce4acca294c11f0acd11366a02e02b861fe6071e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6e75d645d876c266aa16597a5f4dd355259b948d">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_f51d91db16fc3ecb62d70f8fc0805735bf218b5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\94bc793f84c5df2361ca1a8c113e269ff68fc9e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_193b6325379ddcb84d589d84a6cfcc17f6b24d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Firas\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\common-1.0.3_36baafa246fb0e9b3fb777268c9af168af6c757e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\452ab47f9066b4f5d088abab9adc56675203ea49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_8093f6152d3ab2870e1f7c81f7ec7cf19c5e0453.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\b479f391fa1a076df9da2c2ec3deafa4146849cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0d92c6e67db8763ccf87a8d0991cb3cb09c703e8">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_ac1966a80f73df772efa0f5c7d05afc24fa7773a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\0ba577504543c35236bae030bcdc751369ccb263\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_a1b14200e13f27397d6a77fdfd2beaf19815261a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\f225588f81f1067167749e5429911464831b2317\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_7a71de6bf010724aca6195656682e64f083c0560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Firas\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.4\522cfb00b6c015b72c64ee60054b4f6338880858\rxjava-1.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="522cfb00b6c015b72c64ee60054b4f6338880858">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\rxjava-1.2.4_890420f6dd5685d833aaf6b458f20b0f5bf76e28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Firas\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_a32ed22b046a22fcd3b5aab764a0a8b5f6b20412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\ac03157a254e5a25e1e7bb815f5cd29e95fc977f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_5b6c217fc931a403e48422be52c70fe074f46735.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\ac7ead1e742f974ff07184377d408aaaf4dd415b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_7b5f1ba1fed22ab2d3f6ae9124e3b27fd94f79c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\e5b0d09e241811e1ed8111c6d47683fe6c8dba90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="51439f5fd81208cae8623ce21acd1ca7a73a3d33">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_e96e35bbffd78bcc42d8f8cfb9a8d3d0a09330a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Firas\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_1918220e5755a4894ddb05c2b8e36fb3bc7a481d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\2542fe54e1f9f47e6f83798feeb9d038db30d110\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4c1ad9944b7d778a38db6d1d4ef303536643975">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_ab4843aea0961922eca60daa46e418105419876f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\9962b6cbb9b95bc1df03404b930c8749b071fca5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2fdba52179163763ebd95f594bda3212409610c0">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_5eafb31839bfc23ae826af505fb5bdb8a87fb7b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\a3b10176aaaa9ba8ca410d8c32daf1cc2b8d2b0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_81e82a22304fac65e37c572f8b99f59804a70aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\27ef18ff114e5dbbfc0412832822931f63a383bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f46121a7c3b3ba958fc27c39447ae205be23ac4a">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_800e9f0911e69d7ecfe28d5d769bce087876419f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\a6e3dbde5359d13a5c8c2bd661e9fa93f682eaa6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_ec464ff9695633353e128dafa553f12a7efbde1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\b8a90bb55164ef87c5ef362be8e24c891f4503b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_b01e48757d418d3e70747ce79c82d860b7582b71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\d952335e4f7b9119fae220128b9363ad15b52a82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f14a4aa629f8fe6157d4441348982a1822e80622">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_70d86c8c52b00b1aae137a479c1d3052a151cff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\e8237399488ac2d6f3faff7582a0f83f2ba8f468\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6e9a80bf5e66ad02082de42bc800d7db28d3a2b4">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_79f991e8e32f8b8a2e48fe65c12ffa95ff0dfcc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\fce45af15233bdb39ce7765a9a313f899d5c353a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6d3dda07fbd30171edc150e4f13884fce5cd9926">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_c88e78ce24c1cd74c29800b970ce97d6cc5c1cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\4422b0298b3a6b377ab35b701d6a023040cfda4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_5b9e59f65872e60218d7582e4d285d21585085e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\f81ea2479c63ac599bb5b76fa53f68d4646ff99b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_18458d7cf6173d22e597cca2a6a1b485f99a90f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Firas\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.2_468749695278cd11e9e3a5361424bf6f909427c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\fd100e5fc420d2f4add52630bee41c304364eb6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_04fc7f807bbd2d672584432326335ff09986969b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\c260c598541d52fc463b7e0801732c1f519f90f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_6e25c9e94a75972c0fe1954c0db60fd532d3a3a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\3c8e40caf8dcba69aaa6a95d4f555f7d742d8e64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_32b3e32fb6561240837d0a96178acb6c3f1df496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\fd2422200d19b7b46b8eec452f98051fecd4667d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_e22e7146b4e642bf2d7d72dbe4f122472b14ec21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\1728d360068230c1d41fd8e4e4f6b7e8aadcead7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_581b9b3808b57792349c3ea692217100355343cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Firas\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\core-3.3.0_63eec921090ed17d63f13fcb4a6340f96677b2bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\c389d48079309cd9ff1b8eedaa2f2e358e2a5572\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_abed537ce2c8c59f0a782c6ba4ec9e3df7514cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\e8fe6f1c7b16907794d3985e461efd190baf1d9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_4ec3f2c9637ed818a29ae8dd757e444bfbdbf14f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK_HOME\.android\build-cache\5bfb47b2b57664e42559ea33aeb9bda67a5edd9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\classes_5b332beb2bf5e2a4865ba1773b09c54778fd5843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Firas\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Firas\AndroidStudioProjects\Pizza-delivery-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_918dd5656b102bbb5cd559ce61eeffddeb0766ee.jar" />
+    </item>
+
+</items>
